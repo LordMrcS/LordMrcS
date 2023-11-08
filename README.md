@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LordMrcS
-- 👀 I’m interested in learning!
-- 🌱 I’m currently learning cloud!
+- 👀 I’m interested in Typescript!
+- 🌱 I’m currently learning Angular!
 - 💞️ I’m looking to collaborate on open source!
 - 📫 How to reach me: [contact here](https://www.linkedin.com/in/marcosaurelioss/)!
 
