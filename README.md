@@ -2,7 +2,7 @@
 - 👀 I’m interested in Typescript!
 - 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on open source!
-- 📫 How to reach me: [contact here](https://www.linkedin.com/in/marcosaurelioss/)!
+- 📫 How to reach me: [contact here](mailto:marcos@bitbr.net.br)!
 
 <!---
 LordMrcS/LordMrcS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
